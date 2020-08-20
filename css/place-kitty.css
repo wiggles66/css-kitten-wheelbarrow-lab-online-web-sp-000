@@ -1,7 +1,8 @@
 /* Select the image with a class of kitty-1 */
 
 /*__write_selector_here_
-#1*/ {
+#1*/
+ kitty-1.png {
   position: absolute;
   z-index: 1;
   top: 276px;
